@@ -16,3 +16,11 @@ I'll post schematics and PCB files as I finish them.
 
 So far the prototype works swimingly!  So, yay team!
 
+![ESP32-PT2258-Circuit-V1](https://github.com/user-attachments/assets/471f295f-806f-4bff-ad0c-1b315757b7df)
+
+Another random note - I'm NOT a dev... and only understand lots of code on a surface level.  So I used ChatGPT to develope most of it - and I have to say
+that my mind was BLOWN by how pleasant, educational, and productive the process was.   From idea to prototype was mere hours - one afternoon and then
+the next morning.  If I had not have had a couple of wiring errors it would have been just one afternoon.   Because I had trouble with the wiring, 
+ChatGPT got a bit confused in the troubleshooting, thinking it was a code issue, when it was a harware issue.  Once that was fixed... we made
+serious tracks!
+
